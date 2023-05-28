@@ -1,0 +1,4 @@
+- Name: Daniel Baker
+- Likes: Playing piano, Tennis, Comedy movies
+- Dislikes: Horror movies, Cold weather, Traffic jams
+- Favorite Quote: "Believe you can and you're halfway there." - Theodore Roosevelt

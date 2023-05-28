@@ -1,0 +1,4 @@
+- Name: Stella King
+- Likes: Painting, Surfing, Cats
+- Dislikes: Spicy food, Crowded elevators, Dirty dishes
+- Favorite Quote: "The only way to do great work is to love what you do." - Steve Jobs

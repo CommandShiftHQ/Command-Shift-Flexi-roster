@@ -1,0 +1,4 @@
+- Name: Liam Wilson
+- Likes: Playing guitar, Basketball, Action movies
+- Dislikes: Spiders, Early mornings, Bad Wi-Fi signal
+- Favorite Quote: "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill

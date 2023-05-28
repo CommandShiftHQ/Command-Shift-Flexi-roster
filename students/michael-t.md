@@ -1,0 +1,4 @@
+- Name: Michael Thompson
+- Likes: Playing guitar, Camping, Mexican cuisine
+- Dislikes: Snakes, Being stuck in traffic, Coffee stains
+- Favorite Quote: "You must be the change you wish to see in the world." - Mahatma Gandhi

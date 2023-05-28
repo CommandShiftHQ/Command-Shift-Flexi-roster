@@ -1,0 +1,4 @@
+- Name: Mia Garcia
+- Likes: Dancing, Fashion, Mexican food
+- Dislikes: Cold weather, Being stuck in traffic, Dirty dishes
+- Favorite Quote: "In the midst of chaos, there is also opportunity." - Sun Tzu, The Art of War

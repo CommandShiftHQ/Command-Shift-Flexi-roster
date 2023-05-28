@@ -1,0 +1,4 @@
+- Name: Victoria Mitchell
+- Likes: Playing guitar, Hiking, Italian food
+- Dislikes: Rude people, Cold weather, Traffic jams
+- Favorite Quote: "Life is 10% what happens to us and 90% how we react to it." - Charles R. Swindoll

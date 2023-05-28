@@ -1,0 +1,4 @@
+- Name: Sebastian Murphy
+- Likes: Painting, Soccer, Science fiction books
+- Dislikes: Snakes, Public speaking, Slow drivers
+- Favorite Quote: "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." - Albert Einstein

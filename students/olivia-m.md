@@ -1,0 +1,4 @@
+- Name: Olivia Martinez
+- Likes: Singing, Photography, Italian food
+- Dislikes: Rude people, Cold showers, Loud noises
+- Favorite Quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson

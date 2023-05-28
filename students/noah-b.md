@@ -1,0 +1,4 @@
+- Name: Noah Bailey
+- Likes: Writing, Traveling, Jazz music
+- Dislikes: Snakes, Being stuck in traffic, Judgmental people
+- Favorite Quote: "It does not do well to dwell on dreams and forget to live." - Albus Dumbledore, Harry Potter

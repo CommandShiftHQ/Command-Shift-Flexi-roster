@@ -1,0 +1,4 @@
+- Name: Paul Harper
+- Likes: Writing, Reading, Jazz music
+- Dislikes: Spicy food, Loud noises, Judgmental people
+- Favorite Quote: "The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke

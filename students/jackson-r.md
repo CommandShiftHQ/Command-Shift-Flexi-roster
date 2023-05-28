@@ -1,0 +1,4 @@
+- Name: Jackson Rodriguez
+- Likes: Painting, Surfing, Dogs
+- Dislikes: Snakes, Long flights, Cold showers
+- Favorite Quote: "Happiness can be found even in the darkest of times if one only remembers to turn on the light." - Albus Dumbledore, Harry Potter

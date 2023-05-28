@@ -1,0 +1,4 @@
+- Name: Emily Johnson
+- Likes: Photography, Yoga, Reading
+- Dislikes: Crowded places, Spicy food, Traffic jams
+- Favorite Quote: "All we have to decide is what to do with the time that is given to us." - Gandalf, The Lord of the Rings

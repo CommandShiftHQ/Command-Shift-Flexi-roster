@@ -1,0 +1,4 @@
+- Name: Ava Anderson
+- Likes: Painting, Traveling, Cats
+- Dislikes: Snakes, Public speaking, Bitter coffee
+- Favorite Quote: "Life isn't about waiting for the storm to pass, it's about learning to dance in the rain." - Vivian Greene

@@ -1,0 +1,4 @@
+- Name: Sophia Nguyen
+- Likes: Singing, Photography, Thai food
+- Dislikes: Arrogance, Rainy days, Slow drivers
+- Favorite Quote: "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt

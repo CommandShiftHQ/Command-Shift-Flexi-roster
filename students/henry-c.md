@@ -1,0 +1,4 @@
+- Name: Henry Cooper
+- Likes: Dancing, Cooking, Mexican cuisine
+- Dislikes: Heights, Spiders, Slow Wi-Fi
+- Favorite Quote: "The best way to predict the future is to create it." - Peter Drucker

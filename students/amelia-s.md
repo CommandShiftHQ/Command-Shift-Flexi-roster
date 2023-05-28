@@ -1,0 +1,4 @@
+- Name: Amelia Scott
+- Likes: Dancing, Traveling, Italian cuisine
+- Dislikes: Heights, Crowded places, Slow internet
+- Favorite Quote: "It does not do well to dwell on dreams and forget to live." - Albus Dumbledore, Harry Potter
