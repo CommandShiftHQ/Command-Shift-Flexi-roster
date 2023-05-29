@@ -22,3 +22,4 @@
 - [Leo Turner](/students/leo-t.md)
 - [Stella King](/students/stella-k.md)
 - [Noah Bailey](/students/noah-b.md)
+- [Josh Blanchett](/students/josh-b.md)
